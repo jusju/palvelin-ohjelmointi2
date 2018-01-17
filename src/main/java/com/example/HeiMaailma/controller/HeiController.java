@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @ResponseBody
 public class HeiController {
 	@RequestMapping("/hello")
-	public String hei(@RequestParam(place = "location") String location, @RequestParam(name = "name") String name) {
+	public String hei(@RequestParam(name = "location") String location, @RequestParam(name = "name") String name) {
 		return "Welcome to the " + location + " " + name;
 	}
 }
