@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -36,18 +37,27 @@ import com.example.Tymeleaf.domain.Student;
 		return "students";
 	}
 	
-	@RequestMapping(value="/index", method=RequestMethod.GET)
-	public String uusFriend (Model model){
+	@RequestMapping(value="/index", method=RequestMethod.POST)
+	public String uusFriend (@ModelAttribute Friend friend, Model model){
 		// tänne uus friendin lisäys!
+		ArrayList<Friend> friendlist = new ArrayList<Friend>();
+		model.addAttribute("friendlist", friendlist);
+		friendlist.add(friend);
+		System.out.println(friend.toString());
+		System.out.println(friendlist);
 		return "friends";
 		
 	}
 	
 	@RequestMapping(value="/index", method=RequestMethod.GET)
-	public String friends (Model model) {
+	public String friendsForm (Model model) {
+		
+		model.addAttribute("friend", new Friend());
+		
 		
 		//tänne lista frendeistä
-		ArrayList<Friend> friendlist = new ArrayList<Friend>();
+		
+		
 		return "friends";	
 	}
 	

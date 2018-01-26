@@ -20,6 +20,11 @@ public class Friend {
 		super();
 		this.name = name;
 	}
+
+	@Override
+	public String toString() {
+		return "Friend [name=" + name + "]";
+	}
 	
 	
 }
