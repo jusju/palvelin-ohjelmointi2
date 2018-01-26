@@ -41,9 +41,7 @@ import com.example.Tymeleaf.domain.Student;
 	@RequestMapping(value="/index", method=RequestMethod.POST)
 	public String uusFriend (@ModelAttribute Friend friend, Model model){
 		// tänne uus friendin lisäys!
-		//ArrayList<Friend> friendlist = new ArrayList<Friend>();
-		//model.addAttribute("friendlist", friendlist);
-		//friendlist.add(friend);
+		
 		System.out.println(friend.toString());
 		//System.out.println(friendlist);
 		return "friends";

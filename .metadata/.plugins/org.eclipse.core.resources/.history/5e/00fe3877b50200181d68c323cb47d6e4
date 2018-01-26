@@ -17,6 +17,7 @@ import com.example.Tymeleaf.domain.Student;
 	@Controller
 	public class HelloController {
 		
+
 	@RequestMapping("/bello")
 	public String hello(@RequestParam(value="name") String name, @RequestParam(value="age") String age, Model model) {
 		model.addAttribute("age", age); 
@@ -39,13 +40,12 @@ import com.example.Tymeleaf.domain.Student;
 	}
 	
 	@RequestMapping(value="/index", method=RequestMethod.POST)
-	public String uusFriend (@ModelAttribute Friend friend, Model model){
+	public String uusFriend (@ModelAttribute Friend friend, Model model, ArrayList<Friend> friendlist){
 		// tänne uus friendin lisäys!
-		//ArrayList<Friend> friendlist = new ArrayList<Friend>();
-		//model.addAttribute("friendlist", friendlist);
-		//friendlist.add(friend);
+		
+		friendlist.add(friend);
 		System.out.println(friend.toString());
-		//System.out.println(friendlist);
+		System.out.println(friendlist);
 		return "friends";
 		
 	}
@@ -54,7 +54,8 @@ import com.example.Tymeleaf.domain.Student;
 	public String friendsForm (Model model) {
 		
 		model.addAttribute("friend", new Friend());
-		
+		ArrayList<Friend> friendlist = new ArrayList<Friend>();
+		model.addAttribute("friendlist", friendlist);
 		
 		//tänne lista frendeistä
 		
