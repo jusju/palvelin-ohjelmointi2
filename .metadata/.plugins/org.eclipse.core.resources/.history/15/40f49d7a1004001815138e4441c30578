@@ -1,0 +1,21 @@
+package com.example.Tymeleaf.domain;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+public interface friendRepository  { 
+
+	static List<Friend> listAll() {
+		List<Friend> counts = new ArrayList<>();
+	    friendRepository.findAll().forEach(counts::add);
+	    return counts;
+	}
+
+	static Iterable<Friend> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	   
+	
+}

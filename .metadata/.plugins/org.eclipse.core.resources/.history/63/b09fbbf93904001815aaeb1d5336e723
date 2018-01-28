@@ -1,0 +1,14 @@
+package friendlist.Friendlist.domain;
+
+
+
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface FriendRepository extends CrudRepository<Friend, Long>  {
+	
+	List<Friend> listFriends(String name);
+
+
+}

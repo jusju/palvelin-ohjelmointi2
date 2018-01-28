@@ -1,0 +1,15 @@
+package com.example.Tymeleaf.domain;
+
+import java.util.ArrayList;
+
+public class Friendlist {
+private ArrayList<String> friendlist;
+
+public ArrayList<String> getFriendlist() {
+	return friendlist;
+}
+
+public void setFriendlist(ArrayList<String> friendlist) {
+	this.friendlist = friendlist;
+}
+}

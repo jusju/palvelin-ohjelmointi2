@@ -1,0 +1,5 @@
+package com.example.Tymeleaf.domaini.controller;
+
+public class HelloController {
+
+}

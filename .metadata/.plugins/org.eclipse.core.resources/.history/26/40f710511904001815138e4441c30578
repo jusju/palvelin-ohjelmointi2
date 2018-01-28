@@ -1,0 +1,5 @@
+package com.example.Tymeleaf.domaini;
+
+public interface FriendRepository {
+
+}

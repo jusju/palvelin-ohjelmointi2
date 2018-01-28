@@ -1,0 +1,7 @@
+package com.example.Tymeleaf.domain;
+
+public interface FriendRepository {
+
+	Object findAll();
+
+}

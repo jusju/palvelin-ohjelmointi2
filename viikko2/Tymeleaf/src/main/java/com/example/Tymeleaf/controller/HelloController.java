@@ -9,13 +9,15 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.example.Tymeleaf.domain.Friend;
-import com.example.Tymeleaf.domain.Student;
+import com.example.Tymeleaf.domaini.Friend;
+import com.example.Tymeleaf.domaini.Student;
 
 
 
 	@Controller
 	public class HelloController {
+	
+
 		
 	@RequestMapping("/bello")
 	public String hello(@RequestParam(value="name") String name, @RequestParam(value="age") String age, Model model) {
@@ -39,12 +41,14 @@ import com.example.Tymeleaf.domain.Student;
 	}
 	
 	@RequestMapping(value="/index", method=RequestMethod.POST)
-	public String uusFriend (@ModelAttribute Friend friend, Model model){
+	public String friendSubmit (@ModelAttribute Friend friend, Model model){
 		// tänne uus friendin lisäys!
-		//ArrayList<Friend> friendlist = new ArrayList<Friend>();
-		//model.addAttribute("friendlist", friendlist);
-		//friendlist.add(friend);
+		//repository.save(friend);
+		model.addAttribute("friend", friend);
 		System.out.println(friend.toString());
+		//model.addAttribute("friendlist", friendlist);
+		//System.out.println(friendlist.size());
+		//model.addAttribute("friend", friendlist);
 		//System.out.println(friendlist);
 		return "friends";
 		
@@ -53,8 +57,12 @@ import com.example.Tymeleaf.domain.Student;
 	@RequestMapping(value="/index", method=RequestMethod.GET)
 	public String friendsForm (Model model) {
 		
+		//List<Friend> friendlist = setukka.Friendlist();
+		//Model model = new Model("friendlist");
+		//model.addAtttribute("friendlist", friendlist);
 		model.addAttribute("friend", new Friend());
-		
+		//model.addAttribute("students", repository.findAll());
+		//model.addAttribute("friend", friendlist);
 		
 		//tänne lista frendeistä
 		
@@ -62,6 +70,7 @@ import com.example.Tymeleaf.domain.Student;
 		return "friends";	
 	}
 	
+
 	
 	}
 	

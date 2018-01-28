@@ -1,0 +1,10 @@
+package com.example.Tymeleaf.domain;
+
+public interface repository {
+
+	static Object findAll() {
+		
+		return null;
+	}
+
+}
