@@ -1,14 +1,7 @@
 package com.example.Tymeleaf.domaini;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-
-@Entity
 public class Friend {
-	@Id
-	@GeneratedValue(strategy=GenerationType.AUTO)
+	
 	private String name;
 
 	public String getName() {

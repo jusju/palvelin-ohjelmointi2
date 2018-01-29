@@ -17,7 +17,7 @@ import com.example.Tymeleaf.domaini.Student;
 	@Controller
 	public class HelloController {
 	
-
+		ArrayList<Friend> friendlist = new ArrayList<Friend>();
 		
 	@RequestMapping("/bello")
 	public String hello(@RequestParam(value="name") String name, @RequestParam(value="age") String age, Model model) {
@@ -42,14 +42,12 @@ import com.example.Tymeleaf.domaini.Student;
 	
 	@RequestMapping(value="/index", method=RequestMethod.POST)
 	public String friendSubmit (@ModelAttribute Friend friend, Model model){
-		// tänne uus friendin lisäys!
-		//repository.save(friend);
+		
+		//lisätään Friend-olio listaan "friendlist"
 		model.addAttribute("friend", friend);
-		System.out.println(friend.toString());
-		//model.addAttribute("friendlist", friendlist);
-		//System.out.println(friendlist.size());
-		//model.addAttribute("friend", friendlist);
-		//System.out.println(friendlist);
+		friendlist.add(friend);
+		System.out.println(friendlist.toString());
+		model.addAttribute("friendlist", friendlist);
 		return "friends";
 		
 	}
@@ -57,15 +55,8 @@ import com.example.Tymeleaf.domaini.Student;
 	@RequestMapping(value="/index", method=RequestMethod.GET)
 	public String friendsForm (Model model) {
 		
-		//List<Friend> friendlist = setukka.Friendlist();
-		//Model model = new Model("friendlist");
-		//model.addAtttribute("friendlist", friendlist);
+		//luodaan uusi Friend-olio
 		model.addAttribute("friend", new Friend());
-		//model.addAttribute("students", repository.findAll());
-		//model.addAttribute("friend", friendlist);
-		
-		//tänne lista frendeistä
-		
 		
 		return "friends";	
 	}
