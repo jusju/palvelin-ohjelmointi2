@@ -15,7 +15,13 @@
 </table>
 <h1> New friend</h1>
 <form action="#" th:action="@{/index}" th:object="${friend}" method="post">
-<input type="text" th:field="*{name}"/><input type="submit" value="Apply New Friend"/>
+<table>
+<tr>
+<td><input type="text" th:field="*{name}"  /></td>
+<td><input type="submit" value="Apply New Friend"/></td>
+<td th:if="${#fields.hasErrors('name')}" th:errors="*{name}">Error</td>
+ </tr>
+</table>
 </form>
 </body>
 </html>

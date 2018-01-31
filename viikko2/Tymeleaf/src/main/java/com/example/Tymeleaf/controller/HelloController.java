@@ -2,8 +2,11 @@ package com.example.Tymeleaf.controller;
 
 import java.util.ArrayList;
 
+import javax.validation.Valid;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -41,8 +44,12 @@ import com.example.Tymeleaf.domaini.Student;
 	}
 	
 	@RequestMapping(value="/index", method=RequestMethod.POST)
-	public String friendSubmit (@ModelAttribute Friend friend, Model model){
+	public String friendSubmit (@ModelAttribute @Valid Friend friend, BindingResult bindingResult, Model model){
 		
+		if(bindingResult.hasErrors()){
+			model.addAttribute("friendlist", friendlist);
+			return "friends";
+		}
 		//lisätään Friend-olio listaan "friendlist"
 		model.addAttribute("friend", friend);
 		friendlist.add(friend);

@@ -1,7 +1,10 @@
 package com.example.Tymeleaf.domaini;
 
+import javax.validation.constraints.Size;
+
 public class Friend {
 	
+	@Size(min=2, max=12)
 	private String name;
 
 	public String getName() {
