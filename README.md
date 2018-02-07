@@ -1,5 +1,5 @@
 #palvelinohjelmointi
 
-Java 
-Spring Boot
+Java, 
+Spring Boot,
 Thymeleaf
