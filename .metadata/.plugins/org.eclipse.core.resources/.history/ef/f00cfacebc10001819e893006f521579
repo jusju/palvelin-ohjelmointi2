@@ -1,0 +1,16 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Kuvagalleria</title>
+<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" th:href="@{css/bootstrap.min.css}" />
+<link type="text/css" rel="stylesheet" href="css/kuvagalleria.css" th:href="@{css/kuvagalleria.css}" />
+<meta charset="utf-8"/>
+</head>
+<body>
+<form class="form-inline" th:object="${pic}" th:action="@{add}" action="#" method="post">
+<label for="name">Nimi</label>
+			<input type="text" id="name" th:field="*{name}" />
+  <button type="submit" class="btn btn-primary mb-2">Submit</button>
+</form>
+</body>
+</html>

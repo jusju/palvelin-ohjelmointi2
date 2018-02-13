@@ -1,9 +1,0 @@
-package com.example.Tymeleaf.domain;
-
-import javax.management.loading.ClassLoaderRepository;
-
-public interface FriendRepository extends ClassLoaderRepository{
-
-	Object findAll();
-
-}

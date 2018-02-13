@@ -20,6 +20,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\harjoitustyö\gallery"/>
+			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\viikko3\Bookstore"/>
 			<item value="C:\Users\fekku\Downloads\hg"/>
 			<item value="C:\Users\fekku\Downloads\studentlcrud"/>
 			<item value="C:\Users\fekku\Downloads\Friendlist\src\main\java\friendlist\Friendlist\web\HelloController.java"/>

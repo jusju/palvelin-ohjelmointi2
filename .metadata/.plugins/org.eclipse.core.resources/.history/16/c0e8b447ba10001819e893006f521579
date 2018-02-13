@@ -1,0 +1,7 @@
+
+.napit-rivi {
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: column;
+	
+}

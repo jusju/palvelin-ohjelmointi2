@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<title>Kuvagalleria</title>
+<meta name="description" content="Our first page"></meta>
+<meta name="keywords" content="html tutorial template"></meta>
+<meta charset="utf-8"></meta>
+<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" th:href="@{css/bootstrap.min.css}" />
+</head>
+<body>
+<div class="jumbotron">
+<h2>Heissan</h2>
+<p>Tässä kokeilen bootstrappia ja mukavaa on!</p>
+</div>
+</body>
+</html>

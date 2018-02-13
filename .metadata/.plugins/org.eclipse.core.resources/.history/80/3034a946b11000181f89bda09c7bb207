@@ -1,0 +1,5 @@
+package com.gallery.gallery.domain;
+
+public class PictureRepository extends CrudRepository<Picture, Long>{
+
+}
