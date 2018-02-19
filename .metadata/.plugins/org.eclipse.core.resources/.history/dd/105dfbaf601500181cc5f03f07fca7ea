@@ -1,0 +1,14 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Kuvagalleria</title>
+<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" th:href="@{css/bootstrap.min.css}" />
+<link type="text/css" rel="stylesheet" href="css/kuvagalleria.css" th:href="@{css/kuvagalleria.css}" />
+<meta charset="utf-8"/>
+</head>
+<body>
+<div class="container-fluid">
+<h3 th:text="${page.number + 1} + ' of ' + ${page.totalPages}" />
+</div>
+</body>
+</html>

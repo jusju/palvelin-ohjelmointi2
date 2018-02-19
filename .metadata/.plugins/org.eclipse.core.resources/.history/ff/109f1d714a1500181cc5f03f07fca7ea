@@ -1,0 +1,8 @@
+package com.gallery.gallery.domain;
+
+@Service
+public class PictureService {
+	
+	
+
+}

@@ -1,0 +1,28 @@
+package com.gallery.gallery.web;
+import java.nio.file.Path;
+import java.security.Principal;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.gallery.gallery.domain.PictureRepository;
+
+@Controller 
+public class PictureContoller {
+	
+	private PictureRepository prepository;
+	
+	public PictureContoller(PictureRepository prepository) {
+		
+		this.prepository = prepository;
+}
+	@GetMapping("/")
+	public String listUploadedFiles(Model model, Principal principal) throws Exception {
+
+		if (principal == null) {
+			return "redirect:/find";
+		}
+		return "index";
+}
+}

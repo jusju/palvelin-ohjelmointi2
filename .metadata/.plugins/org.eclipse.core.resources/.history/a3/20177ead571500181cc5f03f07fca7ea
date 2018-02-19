@@ -1,0 +1,22 @@
+package com.gallery.gallery.web;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.gallery.gallery.domain.PictureService;
+
+@Controller
+public class ImageController {
+	
+	private static final String BASE_PATH = "/images";
+	
+	//filename .+ ottaa tiedoston päätteen mukaan nimeen!
+	private static final String FILENAME = "{filename:.+";
+	
+	private final PictureService pictureservice;
+	
+	@Autowired
+	public ImageController(PictureService pictureservice) {
+		this.pictureservice = pictureservice;
+	}
+}

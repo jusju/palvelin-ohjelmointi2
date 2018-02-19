@@ -20,18 +20,21 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\StudentListUser"/>
+			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\StudentList"/>
+			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\restdemo"/>
+			<item value="C:\Users\fekku\Downloads\image-gallery-master"/>
+			<item value="C:\Users\fekku\Desktop\spring-mvc-showcase-master"/>
+			<item value="C:\Users\fekku\Downloads\spring-boot-file-upload-example-master"/>
+			<item value="C:\Users\fekku\Desktop\picturegallery"/>
+			<item value="C:\Users\fekku\Desktop\perse\Section11-13"/>
+			<item value="C:\Users\fekku\Desktop\perse"/>
 			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\harjoitustyö\gallery"/>
 			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\viikko3\Bookstore"/>
 			<item value="C:\Users\fekku\Downloads\hg"/>
 			<item value="C:\Users\fekku\Downloads\studentlcrud"/>
 			<item value="C:\Users\fekku\Downloads\Friendlist\src\main\java\friendlist\Friendlist\web\HelloController.java"/>
 			<item value="C:\Users\fekku\Downloads\StudentList"/>
-			<item value="C:\Users\fekku\Downloads\Friendlist"/>
-			<item value="C:\Users\fekku\Downloads\grocery"/>
-			<item value="C:\Users\fekku\Downloads\handlingForm"/>
-			<item value="C:\Users\fekku\Downloads\StudentListOneToMany"/>
-			<item value="C:\Users\fekku\Downloads\helloForm"/>
-			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\viikko2\Tymeleaf"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="StudentListOneToMany"/>

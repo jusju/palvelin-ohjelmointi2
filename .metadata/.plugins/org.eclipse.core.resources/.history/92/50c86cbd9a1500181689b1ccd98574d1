@@ -1,0 +1,19 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Lisää kuva</title>
+<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" th:href="@{css/bootstrap.min.css}" />
+<link type="text/css" rel="stylesheet" href="css/kuvagalleria.css" th:href="@{css/kuvagalleria.css}" />
+<meta charset="utf-8"/>
+</head>
+<body>
+<div class="container">
+<form class="form-addpic" th:object="${pic}" th:action="@{add}" action="#" method="post">
+<label for="name">Nimi</label>
+			<input type="text" id="name" th:field="*{name}" />
+			<input type="text" id="source" th:field="*{source}" />
+  <button type="submit" class="btn btn-primary mb-2">Lisää kuva</button>
+</form>
+</div>
+</body>
+</html>

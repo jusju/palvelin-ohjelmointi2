@@ -1,0 +1,24 @@
+package com.gallery.gallery.domain;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.io.ResourceLoader;
+import org.springframework.stereotype.Service;
+
+@Service
+public class PictureService {
+	
+	//target folder, where images will be uploaded to
+	private static String UPLOAD_ROOT = "upload-dir";
+	
+	private final PictureRepository prepository;
+	private final ResourceLoader resourceLoader;
+	
+	@Autowired
+	public PictureService(PictureRepository prepository, ResourceLoader resourceLoader){
+		
+		this.prepository = prepository;
+		this.resourceLoader = resourceLoader;
+	}
+
+	
+}

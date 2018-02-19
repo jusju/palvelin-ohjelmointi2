@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity4">
 <head>
 <title>Booklist</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -7,6 +7,7 @@
 </head>
 <body>
 <h1>Booklist</h1>
+<h1 th:inline="text">Hello [[${#httpServletRequest.remoteUser}]]!</h1>
 <table class="table table-striped">
 <tr> 
 	<th> Author </th>
@@ -15,7 +16,7 @@
 	<th> Year </th>
 	<th> Category </th>
 	<th>	</th>
-	<th> 	</th>
+	<th sec:authorize="hasRole('ADMIN')"> </th>
 </tr>
 <tr th:each = "book : ${books}">
 	<td th:text="${book.author}"></td>
@@ -24,9 +25,14 @@
 	<td th:text="${book.year}"></td>
 	<td th:text="${book.category.name}"></td>
 	<td><a th:href="@{/edit/{book}(book=${book.id})}"  class="btn btn-success">Edit</a></td>
-	<td><a th:href="@{/delete/{id}(id=${book.id})}" class="btn btn-danger">Delete</a></td>
+	<td sec:authorize="hasRole('ADMIN')"><a th:href="@{/delete/{id}(id=${book.id})}" class="btn btn-danger">Delete</a></td>
 </tr>
 </table>
+<div class="napit-rivi">
 <a href="/addbook" class="btn btn-success">Add a book</a>
+<form th:action="@{/logout}" method="post">
+<input class="btn btn-success" type="submit" value="Sign Out"/>
+</form>
+</div>
 </body>
 </html>
