@@ -20,6 +20,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\gs-testing-web-master"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\StudentListUser"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\StudentList"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\restdemo"/>
@@ -34,7 +35,6 @@
 			<item value="C:\Users\fekku\Downloads\hg"/>
 			<item value="C:\Users\fekku\Downloads\studentlcrud"/>
 			<item value="C:\Users\fekku\Downloads\Friendlist\src\main\java\friendlist\Friendlist\web\HelloController.java"/>
-			<item value="C:\Users\fekku\Downloads\StudentList"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="StudentListOneToMany"/>

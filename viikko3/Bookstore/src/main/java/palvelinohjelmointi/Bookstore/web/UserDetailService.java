@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 import palvelinohjelmointi.Bookstore.domain.User;
 import palvelinohjelmointi.Bookstore.domain.UserRepository;
 
+
 @Service
 public class UserDetailService implements UserDetailsService  {
 	private final UserRepository repository;

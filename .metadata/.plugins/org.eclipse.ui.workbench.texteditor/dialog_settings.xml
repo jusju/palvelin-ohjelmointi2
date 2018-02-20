@@ -8,8 +8,14 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="hello"/>
+			<item value="findBy"/>
+			<item value="test"/>
+			<item value="tests"/>
+			<item value="createNew"/>
+			<item value="admin"/>
+			<item value="User"/>
 			<item value="securi"/>
-			<item value="securu"/>
 		</list>
 		<list key="replacehistory">
 		</list>
