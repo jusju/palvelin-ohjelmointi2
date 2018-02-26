@@ -9,19 +9,15 @@
 <body>
 <div class="container-fluid">
 <div class="jumbotron">
-<h2>Heissan</h2>
-<p>Tässä kokeilen bootstrappia ja mukavaa on!</p>
+<h2>Hi</h2>
+<p>This page should show added pictures</p>
 </div>
-<div>
-<table class="table-hover">
-<tr>
-	<th>Nimi</th>
-</tr>
-<tr th:each = "pic : ${pics}">
-	<td th:text="${pic.name}"></td>
-	<td><a th:href="@{/delete/{id}(id=${pic.id})}" class="btn btn-danger">Delete</a></td>
-</tr>
-</table>
+</div>
+<div th:each="file : ${files}">
+		<div class="gallery">
+			<a target="_blank" th:href="${file}"> <img th:src="${file}"
+				height="200" />
+			</a>
 </div>
 <div class="napit-rivi">
 <a href="/addpic" class="btn btn-success">Lisää kuva</a>

@@ -1,0 +1,29 @@
+package web;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import domain.BookRepository;
+
+@Controller
+public class BookController {
+
+	@Autowired
+	JdbcTemplate jdbctemplate;
+	@Autowired
+	BookRepository brepository;
+
+	@RequestMapping(value="/booklist")
+	public String bookList(Model model) {
+		model.addAttribute("books", brepository.findAll()); //
+		return "booklist";
+	}
+	
+	@RequestMapping(value="/lol")
+	public String lol(Model model) {
+		return "lol";
+}
+}
