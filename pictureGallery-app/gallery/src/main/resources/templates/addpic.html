@@ -25,6 +25,12 @@
 			th:value="${_csrf.token}" />
 					<td><input type="submit" value="Upload" /></td>
 				</tr>
+				
+				<tr><td><select id="categorylist" th:field="*{category}" class="form-control">
+<option th:each="category: ${categorylist}"
+		th:value="${category.categoryId}"
+		th:text="${category.name}"></option>
+</select></td>	</tr>
 			</table>
 		</form>
 	</div>

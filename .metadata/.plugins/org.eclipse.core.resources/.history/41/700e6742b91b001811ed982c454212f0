@@ -1,0 +1,13 @@
+package com.gallery.gallery.domain;
+
+import java.util.Collection;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface PictureRepository extends CrudRepository<Picture, Long>{
+
+	 Picture findByName(String name);
+
+	Collection<String> findAll(String name);
+
+}

@@ -6,7 +6,6 @@ import java.nio.file.Path;
 import java.security.Principal;
 import java.util.List;
 import java.util.Set;
-import java.util.UUID;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -32,6 +31,7 @@ import com.gallery.gallery.domain.UserRepository;
 
 @Controller
 public class PictureContoller {
+	
 	@Autowired
 	PictureRepository repository;
 	@Autowired
@@ -45,7 +45,9 @@ public class PictureContoller {
     }	
 
 	@RequestMapping(value="/index")
-	public String picture(Model model) {
+	public String userPics(Model model) throws Exception {
+		
+		
 		return "index";
 }	
 	
@@ -75,28 +77,30 @@ public class PictureContoller {
 	
 	@RequestMapping(value="/addpic")
 	public String addPicture(Model model){
+		model.addAttribute("category", repository.findAll());
 		return "addpic";
 	}
 	
 	@PostMapping("/add")
 	public String handleFileUpload(@RequestParam("file") MultipartFile file, RedirectAttributes redirectAttributes,
-			Principal principal) throws Exception {
+			Principal principal, Model model) throws Exception {
 
 		if (file.getSize() == 0) {
 			return "redirect:/addpic";
 		}
 
-		String uuid = UUID.randomUUID().toString();
-
-		String imagePath = this.rootLocation.resolve(uuid + ".jpg").toString();
+		String imagePath = this.rootLocation.resolve(file.getOriginalFilename()).toString();
 
 		User user = urepository.findByUsername(principal.getName());
 
 		Set<Picture> stringList = user.getPictureList();
+		
 		stringList.add(new Picture(imagePath));
 		Files.copy(file.getInputStream(), this.rootLocation.resolve(imagePath));
 		
+		
 		urepository.save(user);
+		
 
 		return "redirect:images";
 	}

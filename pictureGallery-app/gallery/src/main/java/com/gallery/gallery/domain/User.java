@@ -8,7 +8,11 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 @Entity
 public class User {
@@ -28,6 +32,11 @@ public class User {
 	
 	@OneToMany(cascade = CascadeType.ALL)
     private Set<Picture> pictureList;
+	
+	@ManyToOne
+	@JsonIgnore
+	@JoinColumn(name = "pictureId")
+	private Picture category;
 
 	public Set<Picture> getPictureList() {
 		return pictureList;
