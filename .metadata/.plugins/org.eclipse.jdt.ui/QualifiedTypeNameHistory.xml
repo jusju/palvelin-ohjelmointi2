@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
-<fullyQualifiedTypeName name="org.springframework.http.HttpRequest"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
 <fullyQualifiedTypeName name="java.net.URI"/>
 <fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
 <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 <fullyQualifiedTypeName name="org.springframework.data.domain.Page"/>
-<fullyQualifiedTypeName name="com.gallery.gallery.domain.Picture"/>
 <fullyQualifiedTypeName name="com.gallery.gallery.web.ImageController"/>
 <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
 <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
 <fullyQualifiedTypeName name="org.apache.tomcat.util.http.parser.MediaType"/>
 <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.support.RedirectAttributes"/>
 <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
-<fullyQualifiedTypeName name="com.gallery.gallery.domain.PictureRepository"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 <fullyQualifiedTypeName name="net.minidev.json.annotate.JsonIgnore"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
@@ -47,7 +42,6 @@
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="palvelinohjelmointi.Bookstore.web.BookController"/>
 <fullyQualifiedTypeName name="com.gallery.gallery.domain.SignUpForm"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 <fullyQualifiedTypeName name="org.springframework.jdbc.core.RowMapper"/>
@@ -60,4 +54,10 @@
 <fullyQualifiedTypeName name="com.jdbc.books.jdbcbooklist.domain.BookRepository"/>
 <fullyQualifiedTypeName name="com.gallery.gallery.domain.UserRepository"/>
 <fullyQualifiedTypeName name="com.gallery.gallery.domain.User"/>
+<fullyQualifiedTypeName name="com.gallery.gallery.domain.Category"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.gallery.gallery.domain.CategoryRepository"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.gallery.gallery.domain.PictureRepository"/>
+<fullyQualifiedTypeName name="com.gallery.gallery.domain.Picture"/>
 </qualifiedTypeNameHistroy>

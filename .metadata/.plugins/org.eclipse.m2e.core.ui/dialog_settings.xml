@@ -20,6 +20,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\gallery-master"/>
+			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\week3\Bookstore"/>
 			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\jdbcbooklist"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\SpringBootJDBC"/>
@@ -33,8 +35,6 @@
 			<item value="C:\Users\fekku\Desktop\picturegallery"/>
 			<item value="C:\Users\fekku\Desktop\perse\Section11-13"/>
 			<item value="C:\Users\fekku\Desktop\perse"/>
-			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\harjoitustyö\gallery"/>
-			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\viikko3\Bookstore"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="StudentListOneToMany"/>
