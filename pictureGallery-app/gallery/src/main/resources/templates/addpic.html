@@ -26,11 +26,15 @@
 					<td><input type="submit" value="Upload" /></td>
 				</tr>
 				
-				<tr><td><select id="categorylist" th:field="*{category}" class="form-control">
-<option th:each="category: ${categorylist}"
-		th:value="${category.categoryId}"
-		th:text="${category.name}"></option>
-</select></td>	</tr>
+				
+				<tr>
+				<select name="picture" class="form-control" th:object="${picture}">
+	<option value=" " selected="selected">Select</option>
+	<option th:value="art" th:text="Art" th:field="${picture.type}">Art</option>
+	<option th:value="model" th:text="Model" th:field="${picture.type}">Art</option>
+	<option th:value="print" th:text="Print" th:field="${picture.type}">Art</option>
+	<option th:value="sketch" th:text="Sketch" th:field="${picture.type}">Art</option>
+</select></tr>
 			</table>
 		</form>
 	</div>

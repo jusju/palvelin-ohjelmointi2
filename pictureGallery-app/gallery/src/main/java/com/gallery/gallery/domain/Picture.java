@@ -1,13 +1,9 @@
 package com.gallery.gallery.domain;
 
-import java.util.List;
-
-import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.OneToMany;
 
 @Entity
 public class Picture {
@@ -16,9 +12,8 @@ public class Picture {
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Long pictureId;
 	private String name;
+	private String type;
 	
-	@OneToMany(cascade = CascadeType.ALL, mappedBy = "category")
-	private List<User> category;
 	
 	public Picture() {}
 	
@@ -27,6 +22,12 @@ public class Picture {
 	}
 	
 	
+	public Picture(String name, String type) {
+		super();
+		this.name = name;
+		this.type = type;
+	}
+
 	public Long getPictureId() {
 		return pictureId;
 	}
@@ -40,6 +41,19 @@ public class Picture {
 	}
 	public void setName(String name) {
 		this.name = name;
+	}
+
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
+	}
+
+	@Override
+	public String toString() {
+		return "Picture [pictureId=" + pictureId + ", name=" + name + ", type=" + type + "]";
 	}
 
 	

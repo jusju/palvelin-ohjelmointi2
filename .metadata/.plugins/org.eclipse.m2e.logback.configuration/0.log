@@ -9573,3 +9573,531 @@ org.eclipse.core.runtime.CoreException: Launch configuration StudentRepositoryTe
 2018-02-27 17:29:06,351 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
 2018-02-27 17:29:06,356 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-02-27 17:29:06,356 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:37:01,360 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:37:01,361 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:37:01,363 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:37:01,365 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:37:01,365 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:37:14,706 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:37:14,707 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:37:14,708 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:37:14,714 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:37:14,714 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:38:31,957 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:38:31,959 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:38:31,969 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:38:31,975 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:38:31,979 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:39:32,717 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:39:32,724 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 17:39:32,730 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:39:32,743 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:39:32,743 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:41:34,732 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:41:34,733 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 17:41:34,735 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:41:34,749 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:41:34,761 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:43:16,841 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:43:16,849 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:43:16,857 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:43:16,864 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:43:16,864 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:45:08,433 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:45:08,435 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:45:08,443 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:45:08,450 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:45:08,454 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:45:19,969 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:45:19,976 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:45:19,982 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:45:19,990 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:45:19,991 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:48:09,805 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:48:09,806 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:48:09,808 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:48:09,810 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:48:09,810 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:48:14,611 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:48:14,612 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 17:48:14,612 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:48:14,635 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:48:14,636 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:50:51,675 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:50:51,676 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:50:51,681 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:50:51,687 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:50:51,690 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:50:57,434 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:50:57,440 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:50:57,445 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:50:57,451 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:50:57,451 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:51:19,796 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:51:19,797 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:51:19,798 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:51:19,799 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:51:19,803 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:51:30,868 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:51:30,872 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:51:30,876 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:51:30,881 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:51:30,881 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:51:47,282 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:51:47,283 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:51:47,288 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:51:47,294 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:51:47,298 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:52:07,728 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:07,732 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:52:07,736 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:52:07,741 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:07,741 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:52:14,266 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:14,268 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:52:14,270 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:52:14,272 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:14,272 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:52:26,480 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:26,482 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:52:26,483 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:52:26,491 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:26,491 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:52:31,307 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:31,309 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:52:31,314 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:52:31,320 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:31,324 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:52:43,187 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:43,192 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:52:43,197 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:52:43,203 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:52:43,204 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:54:26,430 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:54:26,431 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:54:26,432 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:54:26,434 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:54:26,438 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:55:03,470 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:55:03,481 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 17:55:03,494 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:55:03,510 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:55:03,510 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:55:42,964 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:55:42,965 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:55:42,970 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:55:42,974 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:55:42,977 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:57:12,574 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:57:12,579 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:57:12,585 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:57:12,591 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:57:12,591 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:57:49,272 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:57:49,273 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 17:57:49,274 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:57:49,288 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:57:49,288 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 17:58:33,743 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:58:33,744 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 17:58:33,745 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 17:58:33,750 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 17:58:33,751 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:00:26,919 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:00:26,920 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:00:26,930 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:00:26,940 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:00:26,945 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:02:00,773 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:02:00,782 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:02:00,789 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:02:00,800 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:02:00,800 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:02:44,390 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:02:44,391 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:02:44,391 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:02:44,398 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:02:44,411 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:04:22,485 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:04:22,495 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:04:22,503 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:04:22,519 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:04:22,519 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:04:34,260 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:04:34,261 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:04:34,273 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:04:34,292 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:04:34,300 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:06:23,557 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:06:23,563 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:06:23,568 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:06:23,573 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:06:23,573 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:07:09,980 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:07:09,981 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:07:09,983 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:07:09,985 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:07:09,985 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:14:01,685 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:14:01,686 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:14:01,687 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:14:01,707 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:14:01,707 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:16:34,344 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:16:34,345 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:16:34,349 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:16:34,355 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:16:34,358 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:17:06,034 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:17:06,035 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:17:06,039 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:17:06,045 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:17:06,045 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:17:56,096 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:17:56,098 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:17:56,099 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:17:56,102 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:17:56,107 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:18:31,482 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:18:31,486 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:18:31,489 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:18:31,492 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:18:31,493 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:20:16,109 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:20:16,110 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:20:16,115 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:20:16,120 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:20:16,124 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:21:28,330 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:21:28,335 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:21:28,339 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:21:28,344 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:21:28,344 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:23:30,862 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:23:30,863 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:23:30,863 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:23:30,877 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:23:30,877 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:27:32,575 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:27:32,577 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:27:32,579 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:27:32,586 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:27:32,586 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:28:46,222 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:28:46,224 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:28:46,229 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:28:46,235 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:28:46,239 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:30:52,486 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:30:52,495 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:30:52,501 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:30:52,512 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:30:52,513 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:31:21,545 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:31:21,546 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:31:21,547 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:31:21,559 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:31:21,568 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:31:32,795 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:31:32,810 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:31:32,817 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:31:32,829 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:31:32,829 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:32:43,155 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:32:43,156 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:32:43,175 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:32:43,188 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:32:43,194 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:36:45,475 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:36:45,479 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:36:45,482 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:36:45,488 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:36:45,488 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:38:15,979 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:38:15,980 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:38:15,980 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:38:15,986 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:38:15,986 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:40:24,812 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:40:24,812 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:40:24,813 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:40:24,833 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:40:24,833 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:40:47,985 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:40:47,987 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:40:47,992 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:40:47,997 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:40:48,000 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:41:25,959 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:41:25,965 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:41:25,971 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:41:25,978 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:41:25,979 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:42:07,942 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:42:07,943 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:42:07,943 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:42:07,951 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:42:07,960 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:43:41,871 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:43:41,880 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:43:41,886 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:43:41,899 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:43:41,899 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:44:32,700 [Worker-150] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.27/tomcat-embed-core-8.5.27-sources.jar
+2018-02-27 18:44:34,089 [Worker-150] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.27/tomcat-embed-core-8.5.27-sources.jar
+2018-02-27 18:44:34,181 [Worker-150] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:8.5.27
+2018-02-27 18:44:34,495 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:44:34,498 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:44:34,498 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 18:44:34,503 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:44:34,503 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:46:20,024 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:46:20,025 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:46:20,030 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:46:20,035 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:46:20,038 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:47:38,169 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:47:38,171 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:47:38,180 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:47:38,186 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:47:38,186 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:48:23,485 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:48:23,486 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:48:23,488 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:48:23,491 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:48:23,491 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:49:49,652 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:49:49,653 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:49:49,655 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:49:49,663 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:49:49,663 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:53:16,323 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:53:16,324 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:53:16,332 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:53:16,340 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:53:16,344 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:55:07,480 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:55:07,485 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:55:07,490 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:55:07,496 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:55:07,496 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:55:46,196 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:55:46,198 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:55:46,200 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:55:46,202 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:55:46,210 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 18:58:07,732 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:58:07,737 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 18:58:07,743 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 18:58:07,749 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 18:58:07,749 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:09:06,016 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:09:06,018 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:09:06,022 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 19:09:06,028 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:09:06,032 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:11:16,262 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:11:16,268 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:11:16,272 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 19:11:16,278 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:11:16,278 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:12:32,813 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:12:32,813 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:12:32,814 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:12:32,821 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:12:32,821 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:13:42,907 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:13:42,908 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:13:42,909 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:13:42,926 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:13:42,926 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:13:54,478 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:13:54,479 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:13:54,490 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:13:54,506 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:13:54,513 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:14:42,281 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:14:42,286 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:14:42,292 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 19:14:42,299 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:14:42,299 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:15:03,585 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:15:03,586 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:15:03,586 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:15:03,592 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:15:03,600 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:18:03,932 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:18:03,933 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:18:03,950 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:18:03,961 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:18:03,961 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:19:32,819 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:19:32,820 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:19:32,832 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:19:32,854 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:19:32,869 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:20:41,233 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:20:41,246 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:20:41,259 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:20:41,279 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:20:41,279 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:21:25,251 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:21:25,251 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:21:25,252 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:21:25,262 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:21:25,263 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:25:28,639 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:25:28,640 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:25:28,642 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 19:25:28,648 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:25:28,648 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:26:13,405 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:26:13,406 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:26:13,420 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:26:13,437 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:26:13,445 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:29:37,453 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:29:37,463 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:29:37,471 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:29:37,486 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:29:37,486 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:30:42,892 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:30:42,893 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:30:42,895 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 19:30:42,897 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:30:42,904 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:32:52,020 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:32:52,024 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:32:52,029 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 19:32:52,035 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:32:52,035 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:35:03,057 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:35:03,057 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:35:03,062 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-02-27 19:35:03,067 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:35:03,070 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:36:23,369 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:36:23,389 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:36:23,396 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:36:23,409 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:36:23,410 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:42:21,542 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:42:21,543 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:42:21,544 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:42:21,557 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:42:21,558 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:43:26,314 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:43:26,315 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:43:26,315 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:43:26,335 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:43:26,335 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:44:03,255 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:44:03,256 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:44:03,266 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:44:03,284 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:44:03,291 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:44:42,801 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:44:42,814 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:44:42,832 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:44:42,844 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:44:42,844 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:46:02,492 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:46:02,493 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:46:02,494 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:46:02,506 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:46:02,515 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:51:30,057 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:51:30,058 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:51:30,075 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:51:30,090 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:51:30,090 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:52:29,678 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:52:29,679 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:52:29,693 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:52:29,705 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:52:29,713 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:53:25,869 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:53:25,880 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:53:25,887 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:53:25,898 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:53:25,898 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:53:54,492 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:53:54,493 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:53:54,494 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:53:54,501 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:53:54,502 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:54:42,248 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:54:42,249 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:54:42,250 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:54:42,266 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:54:42,266 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:55:52,132 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:55:52,132 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:55:52,137 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:55:52,147 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:55:52,152 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:56:16,005 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:56:16,016 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:56:16,023 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:56:16,035 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:56:16,035 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:57:16,290 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:57:16,291 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:57:16,291 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:57:16,299 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:57:16,308 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 19:58:24,524 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:58:24,532 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 19:58:24,539 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 19:58:24,551 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 19:58:24,551 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:13:37,557 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:13:37,558 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:13:37,567 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:13:37,580 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:13:37,585 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:14:27,529 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:14:27,543 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:14:27,555 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:14:27,580 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:14:27,580 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:16:13,655 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:16:13,656 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:16:13,657 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:16:13,670 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:16:13,670 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:16:55,284 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:16:55,285 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:16:55,285 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:16:55,307 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:16:55,307 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:17:40,797 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:17:40,797 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:17:40,809 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:17:40,834 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:17:40,850 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:20:48,545 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:20:48,551 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:20:48,557 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:20:48,564 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:20:48,565 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:21:21,177 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:21:21,178 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:21:21,178 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:21:21,190 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:21:21,203 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:21:52,629 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:21:52,644 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:21:52,652 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:21:52,665 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:21:52,665 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:23:19,838 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:23:19,838 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:23:19,851 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:23:19,867 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:23:19,875 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources
+2018-02-27 20:23:32,660 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:23:32,667 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-27 20:23:32,674 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-27 20:23:32,688 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 20:23:32,688 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery\src\test\resources

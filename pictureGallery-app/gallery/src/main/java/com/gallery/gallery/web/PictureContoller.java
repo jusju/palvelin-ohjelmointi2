@@ -68,7 +68,7 @@ public class PictureContoller {
 				.collect(Collectors.toList());
 
 		model.addAttribute("files", stringss);
-
+		model.addAttribute("picture", repository.findAll());
 		return "images";
 	}
 	
@@ -76,13 +76,13 @@ public class PictureContoller {
 	
 	
 	@RequestMapping(value="/addpic")
-	public String addPicture(Model model){
-		model.addAttribute("category", repository.findAll());
+	public String addPicture(Model model, Picture picture){
+		model.addAttribute("picture", picture);
 		return "addpic";
 	}
 	
 	@PostMapping("/add")
-	public String handleFileUpload(@RequestParam("file") MultipartFile file, RedirectAttributes redirectAttributes,
+	public String handleFileUpload(@RequestParam("file")MultipartFile file,  @RequestParam("picture")String type, RedirectAttributes redirectAttributes,
 			Principal principal, Model model) throws Exception {
 
 		if (file.getSize() == 0) {
@@ -95,12 +95,13 @@ public class PictureContoller {
 
 		Set<Picture> stringList = user.getPictureList();
 		
-		stringList.add(new Picture(imagePath));
+		stringList.add(new Picture(imagePath, type));
 		Files.copy(file.getInputStream(), this.rootLocation.resolve(imagePath));
 		
 		
 		urepository.save(user);
-		
+		System.out.println(urepository.count());
+		System.out.print(stringList);
 
 		return "redirect:images";
 	}

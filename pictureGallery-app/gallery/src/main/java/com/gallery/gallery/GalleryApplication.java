@@ -7,6 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+
 @SpringBootApplication
 public class GalleryApplication {
 
@@ -18,4 +19,7 @@ public class GalleryApplication {
 	Path path(){
 		return Paths.get("C:/Users/fekku/palvelinohjelmointi/palvelin-ohjelmointi2/pictureGallery-app/gallery/uploads");
 	}
-}
+	
+	
+	}
+

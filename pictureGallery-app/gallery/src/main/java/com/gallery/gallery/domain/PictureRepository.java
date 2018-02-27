@@ -8,6 +8,6 @@ public interface PictureRepository extends CrudRepository<Picture, Long>{
 
 	 Picture findByName(String name);
 	 
-	 List <Picture> findByCategory(String name);
+	 List <Picture> findByType(String type);
 
 }
