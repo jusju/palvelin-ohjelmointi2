@@ -1,8 +1,0 @@
-package com.gallery.gallery.domain;
-
-import org.springframework.data.repository.PagingAndSortingRepository;
-
-public interface PictureRepository extends PagingAndSortingRepository<Picture, Long>{
-
-	public Picture findByName(String name);
-}

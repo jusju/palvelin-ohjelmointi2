@@ -1,0 +1,45 @@
+
+.napit-rivi {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	margin: 10px;
+	
+}
+
+.jumbotron {
+	text-align: center;
+	margin-top: 20px;	
+}
+
+.container-image {
+	margin: 20px;
+	grid-gap: 10px;
+	display: grid;
+	grid-template-columns: 100px 1fr;
+}
+
+.container-form {
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+label {
+	grid-column: 1/2;
+}
+
+input, button {
+	grid-column: 2/3;
+}
+
+.gallery {
+	margin: 15px;
+	float: left;
+	width: 250px;
+}
+
+img {
+	width: 100%;
+	height: 25%;
+}
