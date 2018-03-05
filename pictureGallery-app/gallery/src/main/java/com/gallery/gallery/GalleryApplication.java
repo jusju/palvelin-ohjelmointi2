@@ -17,7 +17,7 @@ public class GalleryApplication {
 	
 	@Bean
 	Path path(){
-		return Paths.get("C:/Users/fekku/palvelinohjelmointi/palvelin-ohjelmointi2/pictureGallery-app/gallery/uploads");
+		return Paths.get(System.getProperty("java.io.tmpdir"));
 	}
 	
 	

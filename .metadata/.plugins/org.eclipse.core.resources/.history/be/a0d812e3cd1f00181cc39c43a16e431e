@@ -1,0 +1,9 @@
+package hello.storage;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface PictureRepository extends CrudRepository<Picture, String>{
+
+	
+
+}

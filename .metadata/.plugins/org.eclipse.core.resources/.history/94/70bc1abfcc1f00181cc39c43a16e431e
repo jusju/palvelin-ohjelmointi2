@@ -1,0 +1,19 @@
+package hello.storage;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface PictureRepository extends CrudRepository<Picture, Long>{
+
+	static void deletePicture(Long pictureId) {
+		
+		
+	}
+
+	static Picture getPicture(Long pictureId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+
+}

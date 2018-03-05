@@ -1,0 +1,9 @@
+spring.mvc.view.prefix=/WEB-INF/jsp/
+spring.mvc.view.suffix=.jsp
+spring.jpa.database-platform=org.hibernate.dialect.MySQLInnoDBDialect
+gallery.images.folder=/home/albert/Gallery/Images/
+spring.redis.host=localhost
+spring.redis.password=secret
+spring.redis.port=6379
+multipart.maxFileSize = -1
+multipart.maxRequestSize = -1

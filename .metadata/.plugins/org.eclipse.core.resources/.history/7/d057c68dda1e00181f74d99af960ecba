@@ -1,0 +1,12 @@
+package hello.storage;
+
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.web.multipart.MultipartFile;
+
+public interface PictureRepository extends CrudRepository<Picture, Long>{
+
+	void save(MultipartFile file);
+
+}
