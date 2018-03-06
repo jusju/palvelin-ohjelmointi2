@@ -20,6 +20,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\StudentListUser"/>
+			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\week3\Bookstore"/>
+			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\spring-boot-photogallery-master"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\gallery-master"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\Spring-Boot-Web-Gallery-Example-master"/>
@@ -27,12 +30,9 @@
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\gs-uploading-files-master"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\image-gallery-master"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\ig-jonathan"/>
-			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\week3\Bookstore"/>
-			<item value="C:\Users\fekku\palvelinohjelmointi\palvelin-ohjelmointi2\pictureGallery-app\gallery"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\jdbcbooklist"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\SpringBootJDBC"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\gs-testing-web-master"/>
-			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\StudentListUser"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\StudentList"/>
 			<item value="C:\Users\fekku\Desktop\palvelinohjelmointi\restdemo"/>
 		</list>

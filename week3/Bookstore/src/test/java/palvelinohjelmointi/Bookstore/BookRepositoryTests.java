@@ -13,6 +13,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import palvelinohjelmointi.Bookstore.domain.Book;
 import palvelinohjelmointi.Bookstore.domain.BookRepository;
 import palvelinohjelmointi.Bookstore.domain.Category;
+import palvelinohjelmointi.Bookstore.domain.CategoryRepository;
 
 @RunWith(SpringRunner.class)
 @DataJpaTest
@@ -20,20 +21,54 @@ public class BookRepositoryTests {
 
     @Autowired
     private BookRepository repository;
+    
+    @Autowired
+    private CategoryRepository crepository;
 
     @Test
-    public void findByAuthorShouldReturnAuthor() {
-        List<Book> books = repository.findByAuthor("Kari");
-        
+    public void findByIsbnShouldReturnAuthor() {
+       
+    	crepository.save(new Category("Non Fiction"));
+        Book book = new Book("Kari", "124567-8", "Java Book", "2018", crepository.findByName("Non Fiction").get(0));
+    	repository.save(book);
+    	 List<Book> books = repository.findByIsbn("124567-8");
         assertThat(books).hasSize(1);
-        assertThat(books.get(0).getAuthor()).isEqualTo("Felix");
+        assertThat(books.get(0).getAuthor()).isEqualTo("Kari");
     }
     
+    
     @Test
-    public void createNewStudent() {
+    public void createNewBook() {
     	Book book = new Book("Mickey", "1234567-1", "Java Book", "2018", new Category("Fiction"));
     	repository.save(book);
     	assertThat(book.getId()).isNotNull();
     }    
 
+    
+    @Test
+    public void editBook(){
+    	Book book = new Book("Mickey", "1234567-1", "Java Book", "2018", new Category("Fiction"));
+    	repository.save(book);
+    	assertThat(book.getTitle().equals("Java Book"));
+    	System.out.println(book.getTitle());
+    	
+    	repository.findOne(book.getId()).setTitle("Java Book edited");
+    	repository.save(book);
+    	assertThat(book.getTitle().equals("Java Book edited"));
+    	System.out.println(book.getTitle());
+    	   	    	
+    }
+    
+    @Test
+    public void deleteBook() {
+    	Category category = crepository.save(new Category("Non Fiction"));
+    	Book book = new Book("Kari", "124567-8", "Java Book", "2018", category);
+    	
+    	repository.save(book);
+    	assertThat(book.getId()).isNotNull();
+    	
+    	repository.delete(book);
+    	assertThat(book.getId()).isNull();
+    	System.out.println(book.toString());
+    }
 }

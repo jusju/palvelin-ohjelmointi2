@@ -26,6 +26,8 @@ public class UserRepositoryTests {
         assertThat(user.getRole()).isEqualTo("ADMIN");
     }
     
+
+    
     @Test
     public void createNewUser() {
     	User user = new User("Mickey", "salainensalasana", "USER");
